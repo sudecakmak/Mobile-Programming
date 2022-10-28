@@ -12,3 +12,6 @@ Selected days are shown in texbox, if the day is deselected the day written in t
 
 ## Login App
 The user name and password are entered. If entered incorrectly 3 times, the background color will turn red. If written correctly, the background color will turn green. Remaining rights are indicated by toast.
+
+## Spinner App
+When user select one of the names in the spinner selected names image displayed in the imagebox.

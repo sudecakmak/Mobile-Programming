@@ -15,3 +15,6 @@ The user name and password are entered. If entered incorrectly 3 times, the back
 
 ## Spinner App
 When user select one of the names in the spinner selected names image displayed in the imagebox.
+
+## Seekbar App
+The seekbar on the screen determines the range of red, blue and green colors and allows the background color to change according to the seekbar movement.

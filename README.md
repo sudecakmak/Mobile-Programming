@@ -28,3 +28,8 @@ The seekbar on the screen determines the range of red, blue and green colors and
 ## SharedPreferences
 Adding a shared preference to the seekbar application. The red, green, blue values are saved and when the app is opened again, thanks to the last saved color values the background color are displayed.
 
+
+## Listview App
+The provinces of the region selected from the spinner are shown in the listview.
+
+

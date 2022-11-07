@@ -32,6 +32,8 @@ Adding a shared preference to the seekbar application. The red, green, blue valu
 ## Listview App
 The provinces of the region selected from the spinner are shown in the listview.
 
+![Screenshot 2022-11-07 233749](https://user-images.githubusercontent.com/102357822/200410486-7b03b3a5-04aa-485b-b364-40f1775fdf80.png)
+
 
 ## User Settings App
 User settings are saved with the add to shared preference button, the saved data is displayed with the read button, and the texts in the edittext are deleted with delete button.

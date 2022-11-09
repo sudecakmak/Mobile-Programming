@@ -39,3 +39,6 @@ The provinces of the region selected from the spinner are shown in the listview.
 User settings are saved with the add to shared preference button, the saved data is displayed with the read button, and the texts in the edittext are deleted with delete button.
 
 
+## Sms Sending App
+Sms to be sent is written in the edittext and saved to the sharedpreferences with the save button, and the person to be sent is selected from the listview. After the person to be sent is selected, the sms saved in the edittext is sent with the send button. The texts in the dollar sign written in the edittext are found from the listview and replaced with string replace.
+

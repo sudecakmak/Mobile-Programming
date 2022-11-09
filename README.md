@@ -42,3 +42,7 @@ User settings are saved with the add to shared preference button, the saved data
 ## Sms Sending App
 Sms to be sent is written in the edittext and saved to the sharedpreferences with the save button, and the person to be sent is selected from the listview. After the person to be sent is selected, the sms saved in the edittext is sent with the send button. The texts in the dollar sign written in the edittext are found from the listview and replaced with string replace.
 
+
+![Screenshot 2022-11-09 212527](https://user-images.githubusercontent.com/102357822/200911505-ba2d75d2-a058-48be-abd2-45e04d3cafb8.png) ![Screenshot 2022-11-09 212635](https://user-images.githubusercontent.com/102357822/200911526-b89e346e-3b30-4315-96e8-7d9f2eba059a.png)
+
+

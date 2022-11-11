@@ -13,6 +13,8 @@ The picture of the selected animal is displayed in the imagebox. The animal imag
 
 ![Screenshot 2022-11-10 014840](https://user-images.githubusercontent.com/102357822/200958951-91a75ecf-5800-4000-8b13-72a515e55625.png)
 
+
+
 ## Checkbox App
 Selected days are shown in texbox, if the day is deselected the day written in texbox will be removed.
 
@@ -22,6 +24,11 @@ Selected days are shown in texbox, if the day is deselected the day written in t
 
 ## Login App
 The user name and password are entered. If entered incorrectly 3 times, the background color will turn red. If written correctly, the background color will turn green. Remaining rights are indicated by toast.
+
+![Screenshot 2022-11-11 135418](https://user-images.githubusercontent.com/102357822/201326044-6860b0d2-84ad-4e67-914c-507849719f81.png)
+
+![Screenshot 2022-11-11 135459](https://user-images.githubusercontent.com/102357822/201326056-24e07ccb-7783-49e5-8329-a0a805f7820d.png)
+
 
 
 

@@ -49,6 +49,8 @@ The seekbar on the screen determines the range of red, blue and green colors and
 ## SharedPreferences
 Adding a shared preference to the seekbar application. The red, green, blue values are saved and when the app is opened again, thanks to the last saved color values the background color are displayed.
 
+![Screenshot 2022-11-11 140058](https://user-images.githubusercontent.com/102357822/201327040-961be504-9e43-4b1b-a4e1-fbfbe19e81e1.png)
+
 
 
 ## Listview App

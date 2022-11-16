@@ -1,6 +1,19 @@
 # Mobile-Programming
 Projects I made in mobile programming. I use android studio for my projects.
 
+## Apps
+- [Calculator App](#calculator-app)
+- [Radiobutton App](#radiobutton-app)
+- [Checkbox App](#checkbox-app)
+- [Login App](#login-app)
+- [Spinner App](#spinner-app)
+- [Seekbar App](#seekbar-app)
+- [Shared Preferences](#shared-preferences)
+- [Listview App](#listview-app)
+- [User Settings App](#user-settings-app)
+- [Sms Sending App](#sms-sending-app)
+
+
 ## Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
 
@@ -46,7 +59,7 @@ The seekbar on the screen determines the range of red, blue and green colors and
 
 
 
-## SharedPreferences
+## Shared Preferences
 Adding a shared preference to the seekbar application. The red, green, blue values are saved and when the app is opened again, thanks to the last saved color values the background color are displayed.
 
 ![Screenshot 2022-11-11 140058](https://user-images.githubusercontent.com/102357822/201327040-961be504-9e43-4b1b-a4e1-fbfbe19e81e1.png)

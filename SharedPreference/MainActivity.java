@@ -32,9 +32,9 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences preferences= getSharedPreferences("Kullanici_Ayar",MODE_PRIVATE);
         String s,s1,s2;
 
-        s = preferences.getString("Red","no");
-        s1 = preferences.getString("Green","no");
-        s2 = preferences.getString("Blue","no");
+        s = preferences.getString("Red","0");
+        s1 = preferences.getString("Green","0");
+        s2 = preferences.getString("Blue","0");
 
         skr.setProgress(Integer.parseInt(s));
         skb.setProgress(Integer.parseInt(s2));

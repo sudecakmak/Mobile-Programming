@@ -13,7 +13,7 @@ Projects I made in mobile programming. I use android studio for my projects.
 - [User Settings App](#user-settings-app)
 - [Sms Sending App](#sms-sending-app)
 - [Switch Activities App](#switch-activities-app)
-
+- [Listview with Class App](#listview-with-class-app)
 
 # Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
@@ -94,3 +94,8 @@ In the first activity, you can switch to the other activity by pressing the colo
   <img src="https://user-images.githubusercontent.com/102357822/205444651-bc2c25fe-a559-4f0d-90fa-398b5e91c1c4.png"/>
   <img src="https://user-images.githubusercontent.com/102357822/205444654-fe1d0d57-03cd-4d31-80d4-34a4e0e70b11.png"/>
 </p>
+
+# Listview with Class App
+New java classes are created. These classes are used to create a contact list. A contact list is created by entering name, age and gender information. There are add, delete and edit buttons. 
+
+![Screenshot 2022-12-03 204419](https://user-images.githubusercontent.com/102357822/205455024-344c3568-a67f-4bfc-9baa-72d91d707990.png)

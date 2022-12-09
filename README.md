@@ -14,6 +14,7 @@ Projects I made in mobile programming. I use android studio for my projects.
 - [Sms Sending App](#sms-sending-app)
 - [Switch Activities App](#switch-activities-app)
 - [Listview with Class App](#listview-with-class-app)
+- [Sign up Login App](#sign-up-login-app)
 
 # Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
@@ -99,3 +100,11 @@ In the first activity, you can switch to the other activity by pressing the colo
 New java classes are created. These classes are used to create a contact list. A contact list is created by entering name, age and gender information. There are add, delete and edit buttons. 
 
 ![Screenshot 2022-12-03 204419](https://user-images.githubusercontent.com/102357822/205455024-344c3568-a67f-4bfc-9baa-72d91d707990.png)
+
+# Sign up Login App
+When the user signs up, the username and password are registered to the shared preference. If the user name and password entered when the user logs in meets the ones registered in the shared preference, they log in and switch to the next page. On this page, the user name and password entered are displayed.
+
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/102357822/206709348-99b8c23b-4dcc-469b-8b9a-66973b66fc43.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/206709359-6b7c55b9-5230-4a80-b71c-92e15984c6fa.png"/>
+</p>

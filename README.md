@@ -111,7 +111,7 @@ When the user signs up, the username and password are registered to the shared p
 </p>
 
 # Sqlite App
-Enter the person's name, age, hair color. Pictures are assigned according to gender and age. adding, deleting, editing and listing operations are performed. All data is recorded in the database. Transactions also occur in the database.
+Enter the person's name, age, hair color. Pictures are assigned according to gender and age. Adding, deleting, editing and listing operations are performed. All data is recorded in the database. Transactions also occur in the database.
 
 ![Screenshot 2022-12-15 183155](https://user-images.githubusercontent.com/102357822/207904117-f74c7086-71ba-4435-8f1d-09243c2c194c.png)
 

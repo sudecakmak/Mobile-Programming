@@ -15,6 +15,7 @@ Projects I made in mobile programming. I use android studio for my projects.
 - [Switch Activities App](#switch-activities-app)
 - [Listview with Class App](#listview-with-class-app)
 - [Sign up Login App](#sign-up-login-app)
+- [Sqlite App](#sqlite-app)
 
 # Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
@@ -108,3 +109,9 @@ When the user signs up, the username and password are registered to the shared p
   <img src="https://user-images.githubusercontent.com/102357822/206709348-99b8c23b-4dcc-469b-8b9a-66973b66fc43.png"/>
   <img src="https://user-images.githubusercontent.com/102357822/206709359-6b7c55b9-5230-4a80-b71c-92e15984c6fa.png"/>
 </p>
+
+# Sqlite App
+Enter the person's name, age, hair color. Pictures are assigned according to gender and age. adding, deleting, editing and listing operations are performed. All data is recorded in the database. Transactions also occur in the database.
+
+![Screenshot 2022-12-15 183155](https://user-images.githubusercontent.com/102357822/207904117-f74c7086-71ba-4435-8f1d-09243c2c194c.png)
+

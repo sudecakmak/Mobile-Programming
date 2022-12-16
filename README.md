@@ -78,6 +78,7 @@ The provinces of the region selected from the spinner are shown in the listview.
 # User Settings App
 User settings are saved with the add to shared preference button, the saved data is displayed with the read button, and the texts in the edittext are deleted with delete button.
 
+![Screenshot 2022-12-16 155743](https://user-images.githubusercontent.com/102357822/208103491-4a03787a-b8f9-444d-824b-5625e0db6af5.png)
 
 
 # Sms Sending App

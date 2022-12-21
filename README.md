@@ -16,7 +16,8 @@ Projects I made in mobile programming. I use android studio for my projects.
 - [Listview with Class App](#listview-with-class-app)
 - [Sign up Login App](#sign-up-login-app)
 - [Sqlite App](#sqlite-app)
-- [JSON App](#json-app)
+- [JSON Current Weather App](#json-current-weather-app)
+- [JSON Current Currency App](#json-current-currency-app)
 
 # Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
@@ -117,8 +118,14 @@ Enter the person's name, age, hair color. Pictures are assigned according to gen
 
 ![Screenshot 2022-12-15 183155](https://user-images.githubusercontent.com/102357822/207904117-f74c7086-71ba-4435-8f1d-09243c2c194c.png)
 
-# JSON App
+
+# JSON Current Weather App
 The weather api is taken as a json string. Current weather information is retrieved from json. It is added to the database. The city is written and searched. The city's weather, temperature, weather picture and query date are added to the listview.
 
 ![Screenshot 2022-12-22 000420](https://user-images.githubusercontent.com/102357822/209002512-c226eb89-d0ec-4a9f-8f4b-258a6bd2b924.png)
 
+
+# JSON Current Currency App
+The currency api is taken as a json string. Current currency information is retrieved from json. It is added to the database. It lists forrex selling, forex buying, Currency name and date.
+
+![Screenshot 2022-12-22 002830](https://user-images.githubusercontent.com/102357822/209005801-0c11bdf1-fa2a-4be5-b2e1-5848028ac89f.png)

@@ -16,6 +16,7 @@ Projects I made in mobile programming. I use android studio for my projects.
 - [Listview with Class App](#listview-with-class-app)
 - [Sign up Login App](#sign-up-login-app)
 - [Sqlite App](#sqlite-app)
+- [JSON App](#json-app)
 
 # Calculator App
 It displays the result of addition, subtraction, multiplication and division of two numbers written by the user in the textbox.
@@ -115,4 +116,7 @@ When the user signs up, the username and password are registered to the shared p
 Enter the person's name, age, hair color. Pictures are assigned according to gender and age. Adding, deleting, editing and listing operations are performed. All data is recorded in the database. Transactions also occur in the database.
 
 ![Screenshot 2022-12-15 183155](https://user-images.githubusercontent.com/102357822/207904117-f74c7086-71ba-4435-8f1d-09243c2c194c.png)
+
+# JSON App
+The weather api is taken as a json string. Current weather information is retrieved from json. It is added to the database. The city is written and searched. The city's weather, temperature, weather picture and query date are added to the listview.
 

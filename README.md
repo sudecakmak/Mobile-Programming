@@ -120,3 +120,5 @@ Enter the person's name, age, hair color. Pictures are assigned according to gen
 # JSON App
 The weather api is taken as a json string. Current weather information is retrieved from json. It is added to the database. The city is written and searched. The city's weather, temperature, weather picture and query date are added to the listview.
 
+![Screenshot 2022-12-22 000420](https://user-images.githubusercontent.com/102357822/209002512-c226eb89-d0ec-4a9f-8f4b-258a6bd2b924.png)
+

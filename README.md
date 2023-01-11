@@ -34,10 +34,12 @@ The picture of the selected animal is displayed in the imagebox. The animal imag
 
 
 # Checkbox App
-Selected days are shown in texbox, if the day is deselected the day written in texbox will be removed.
+Selected days are shown in textbox, if the day is deselected the day written in textbox will be removed.
 
-![Screenshot 2022-11-10 014522](https://user-images.githubusercontent.com/102357822/200958494-2737d477-24e8-4977-9b7a-4118e8cc2a84.png)
-
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/102357822/211897726-1299c090-0958-4a3e-ae48-f13c327d03b4.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/211897741-e49cec54-875d-4b75-8cb7-5491bc43c3ab.png"/>
+</p>
 
 
 # Login App

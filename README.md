@@ -54,8 +54,10 @@ The user name and password are entered. If entered incorrectly 3 times, the back
 # Spinner App
 When user select one of the names in the spinner selected names image displayed in the imagebox.
 
-![Screenshot 2022-11-01 184726](https://user-images.githubusercontent.com/102357822/199558936-983aa1d3-ec55-4e78-837c-32964e512e65.png)
-
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/102357822/212422516-55d8e1c4-5b6f-4c8d-9683-fab0f075793d.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212422525-9396829d-a8d1-4350-8e90-e67889a1f728.png"/>
+</p>
 
 
 # Seekbar App

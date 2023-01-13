@@ -43,12 +43,12 @@ Selected days are shown in textbox, if the day is deselected the day written in 
 
 
 # Login App
-The user name and password are entered. If entered incorrectly 3 times, the background color will turn red. If written correctly, the background color will turn green. Remaining rights are indicated by toast.
-
+The user name and password are entered. If entered incorrectly 3 times, the background color will turn red. If written correctly, the background color will turn green. 
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/102357822/201326044-6860b0d2-84ad-4e67-914c-507849719f81.png"/>
-  <img src="https://user-images.githubusercontent.com/102357822/201326056-24e07ccb-7783-49e5-8329-a0a805f7820d.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212309916-b1ec21f1-a9c9-4eb1-8fb6-5ccd4c774909.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212309921-8adbd0c8-e7e0-4efd-970f-df9c75456065.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212309930-dc1be861-ecb4-4eba-910d-c21f219b3369.png"/>
 </p>
 
 # Spinner App

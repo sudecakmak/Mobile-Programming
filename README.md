@@ -63,10 +63,8 @@ When user select one of the names in the spinner selected names image displayed 
 # Seekbar App
 The seekbar on the screen determines the range of red, blue and green colors and allows the background color to change according to the seekbar movement.
 
-<p align="middle">
-  <img src="https://user-images.githubusercontent.com/102357822/212472875-21e8ef65-7f6f-4e35-b983-173517d473a0.png"/>
-  <img src="https://user-images.githubusercontent.com/102357822/212472879-eb5057a8-0112-4936-8e72-a8c1ae99b0ae.png"/>
-</p>
+
+
 
 
 # Shared Preferences
@@ -79,7 +77,10 @@ Adding a shared preference to the seekbar application. The red, green, blue valu
 # Listview App
 The provinces of the region selected from the spinner are shown in the listview.
 
-![Screenshot 2022-11-07 233749](https://user-images.githubusercontent.com/102357822/200410486-7b03b3a5-04aa-485b-b364-40f1775fdf80.png)
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/102357822/212472875-21e8ef65-7f6f-4e35-b983-173517d473a0.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212472879-eb5057a8-0112-4936-8e72-a8c1ae99b0ae.png"/>
+</p>
 
 
 

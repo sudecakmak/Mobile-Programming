@@ -63,9 +63,7 @@ When user select one of the names in the spinner selected names image displayed 
 # Seekbar App
 The seekbar on the screen determines the range of red, blue and green colors and allows the background color to change according to the seekbar movement.
 
-![Screenshot 2022-11-01 190824](https://user-images.githubusercontent.com/102357822/199559020-5dfec4fb-20cb-4fd0-8068-39f8fa7a2335.png)
-
-
+![Screenshot 2023-01-10 205935](https://user-images.githubusercontent.com/102357822/212470202-6d4d260b-4e57-495f-86e5-92cd4a6a1ee9.png)
 
 # Shared Preferences
 Adding a shared preference to the seekbar application. The red, green, blue values are saved and when the app is opened again, thanks to the last saved color values the background color are displayed.

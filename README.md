@@ -29,8 +29,8 @@ It displays the result of addition, subtraction, multiplication and division of 
 # Radiobutton App
 The picture of the selected animal is displayed in the imagebox. The animal image comes from the link address of the photo with the internet connection setup using the gidle library.
 
-![Screenshot 2022-11-10 014840](https://user-images.githubusercontent.com/102357822/200958951-91a75ecf-5800-4000-8b13-72a515e55625.png)
 
+![Screenshot 2023-01-10 204933](https://user-images.githubusercontent.com/102357822/212472869-76344794-93a1-4b15-a3ac-87fa12538512.png)
 
 
 # Checkbox App
@@ -63,7 +63,11 @@ When user select one of the names in the spinner selected names image displayed 
 # Seekbar App
 The seekbar on the screen determines the range of red, blue and green colors and allows the background color to change according to the seekbar movement.
 
-![Screenshot 2023-01-10 205935](https://user-images.githubusercontent.com/102357822/212470202-6d4d260b-4e57-495f-86e5-92cd4a6a1ee9.png)
+<p align="middle">
+  <img src="https://user-images.githubusercontent.com/102357822/212472875-21e8ef65-7f6f-4e35-b983-173517d473a0.png"/>
+  <img src="https://user-images.githubusercontent.com/102357822/212472879-eb5057a8-0112-4936-8e72-a8c1ae99b0ae.png"/>
+</p>
+
 
 # Shared Preferences
 Adding a shared preference to the seekbar application. The red, green, blue values are saved and when the app is opened again, thanks to the last saved color values the background color are displayed.
